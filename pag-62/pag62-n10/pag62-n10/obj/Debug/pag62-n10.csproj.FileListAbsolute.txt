@@ -1,0 +1,8 @@
+H:\logP\2etapa\pag-62\pag62-n10\pag62-n10\bin\Debug\pag62-n10.exe.config
+H:\logP\2etapa\pag-62\pag62-n10\pag62-n10\bin\Debug\pag62-n10.exe
+H:\logP\2etapa\pag-62\pag62-n10\pag62-n10\bin\Debug\pag62-n10.pdb
+H:\logP\2etapa\pag-62\pag62-n10\pag62-n10\obj\Debug\pag62-n10.csproj.AssemblyReference.cache
+H:\logP\2etapa\pag-62\pag62-n10\pag62-n10\obj\Debug\pag62-n10.csproj.SuggestedBindingRedirects.cache
+H:\logP\2etapa\pag-62\pag62-n10\pag62-n10\obj\Debug\pag62-n10.csproj.CoreCompileInputs.cache
+H:\logP\2etapa\pag-62\pag62-n10\pag62-n10\obj\Debug\pag62-n10.exe
+H:\logP\2etapa\pag-62\pag62-n10\pag62-n10\obj\Debug\pag62-n10.pdb

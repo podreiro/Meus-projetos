@@ -1,0 +1,46 @@
+C:\Users\Owner\OneDrive\Documentos\rafa-cotemig\logP\PrimeiraEtapa\trabalho cpf\logP-trabai\logP-trabai\bin\Debug\logP-trabai.exe.config
+C:\Users\Owner\OneDrive\Documentos\rafa-cotemig\logP\PrimeiraEtapa\trabalho cpf\logP-trabai\logP-trabai\bin\Debug\logP-trabai.exe
+C:\Users\Owner\OneDrive\Documentos\rafa-cotemig\logP\PrimeiraEtapa\trabalho cpf\logP-trabai\logP-trabai\bin\Debug\logP-trabai.pdb
+C:\Users\Owner\OneDrive\Documentos\rafa-cotemig\logP\PrimeiraEtapa\trabalho cpf\logP-trabai\logP-trabai\obj\Debug\logP-trabai.csproj.AssemblyReference.cache
+C:\Users\Owner\OneDrive\Documentos\rafa-cotemig\logP\PrimeiraEtapa\trabalho cpf\logP-trabai\logP-trabai\obj\Debug\logP-trabai.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\OneDrive\Documentos\rafa-cotemig\logP\PrimeiraEtapa\trabalho cpf\logP-trabai\logP-trabai\obj\Debug\logP_trabai.Form5.resources
+C:\Users\Owner\OneDrive\Documentos\rafa-cotemig\logP\PrimeiraEtapa\trabalho cpf\logP-trabai\logP-trabai\obj\Debug\logP_trabai.Principal.resources
+C:\Users\Owner\OneDrive\Documentos\rafa-cotemig\logP\PrimeiraEtapa\trabalho cpf\logP-trabai\logP-trabai\obj\Debug\logP_trabai.exercicio1.resources
+C:\Users\Owner\OneDrive\Documentos\rafa-cotemig\logP\PrimeiraEtapa\trabalho cpf\logP-trabai\logP-trabai\obj\Debug\logP_trabai.Properties.Resources.resources
+C:\Users\Owner\OneDrive\Documentos\rafa-cotemig\logP\PrimeiraEtapa\trabalho cpf\logP-trabai\logP-trabai\obj\Debug\logP-trabai.csproj.GenerateResource.cache
+C:\Users\Owner\OneDrive\Documentos\rafa-cotemig\logP\PrimeiraEtapa\trabalho cpf\logP-trabai\logP-trabai\obj\Debug\logP-trabai.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Documentos\rafa-cotemig\logP\PrimeiraEtapa\trabalho cpf\logP-trabai\logP-trabai\obj\Debug\logP-trabai.exe
+C:\Users\Owner\OneDrive\Documentos\rafa-cotemig\logP\PrimeiraEtapa\trabalho cpf\logP-trabai\logP-trabai\obj\Debug\logP-trabai.pdb
+C:\Users\Owner\OneDrive\Documentos\rafa-cotemig\logP\PrimeiraEtapa\trabalho cpf\logP-trabai\logP-trabai\obj\Debug\logP_trabai.Exercicio2.resources
+C:\Users\Owner\OneDrive\Documentos\rafa-cotemig\logP\PrimeiraEtapa\trabalho cpf\logP-trabai\logP-trabai\obj\Debug\logP_trabai.exercicio3.resources
+C:\Users\usuario\Downloads\logP-trabai\logP-trabai\bin\Debug\logP-trabai.exe.config
+C:\Users\usuario\Downloads\logP-trabai\logP-trabai\bin\Debug\logP-trabai.exe
+C:\Users\usuario\Downloads\logP-trabai\logP-trabai\bin\Debug\logP-trabai.pdb
+C:\Users\usuario\Downloads\logP-trabai\logP-trabai\obj\Debug\logP-trabai.csproj.AssemblyReference.cache
+C:\Users\usuario\Downloads\logP-trabai\logP-trabai\obj\Debug\logP-trabai.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Downloads\logP-trabai\logP-trabai\obj\Debug\logP_trabai.Exercicio2.resources
+C:\Users\usuario\Downloads\logP-trabai\logP-trabai\obj\Debug\logP_trabai.exercicio3.resources
+C:\Users\usuario\Downloads\logP-trabai\logP-trabai\obj\Debug\logP_trabai.Principal.resources
+C:\Users\usuario\Downloads\logP-trabai\logP-trabai\obj\Debug\logP_trabai.exercicio1.resources
+C:\Users\usuario\Downloads\logP-trabai\logP-trabai\obj\Debug\logP_trabai.Properties.Resources.resources
+C:\Users\usuario\Downloads\logP-trabai\logP-trabai\obj\Debug\logP-trabai.csproj.GenerateResource.cache
+C:\Users\usuario\Downloads\logP-trabai\logP-trabai\obj\Debug\logP-trabai.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\logP-trabai\logP-trabai\obj\Debug\logP-trabai.exe
+C:\Users\usuario\Downloads\logP-trabai\logP-trabai\obj\Debug\logP-trabai.pdb
+C:\Users\usuario\Downloads\logP-trabai\logP-trabai\obj\Debug\logP_trabai.exercicio4.resources
+H:\logP\Trabai-LogP-30.6\logP-trabai\bin\Debug\logP-trabai.exe.config
+H:\logP\Trabai-LogP-30.6\logP-trabai\bin\Debug\logP-trabai.exe
+H:\logP\Trabai-LogP-30.6\logP-trabai\bin\Debug\logP-trabai.pdb
+H:\logP\Trabai-LogP-30.6\logP-trabai\obj\Debug\logP-trabai.csproj.AssemblyReference.cache
+H:\logP\Trabai-LogP-30.6\logP-trabai\obj\Debug\logP-trabai.csproj.SuggestedBindingRedirects.cache
+H:\logP\Trabai-LogP-30.6\logP-trabai\obj\Debug\logP_trabai.desafio1.resources
+H:\logP\Trabai-LogP-30.6\logP-trabai\obj\Debug\logP_trabai.Exercicio2.resources
+H:\logP\Trabai-LogP-30.6\logP-trabai\obj\Debug\logP_trabai.exercicio3.resources
+H:\logP\Trabai-LogP-30.6\logP-trabai\obj\Debug\logP_trabai.exercicio4.resources
+H:\logP\Trabai-LogP-30.6\logP-trabai\obj\Debug\logP_trabai.Principal.resources
+H:\logP\Trabai-LogP-30.6\logP-trabai\obj\Debug\logP_trabai.exercicio1.resources
+H:\logP\Trabai-LogP-30.6\logP-trabai\obj\Debug\logP_trabai.Properties.Resources.resources
+H:\logP\Trabai-LogP-30.6\logP-trabai\obj\Debug\logP-trabai.csproj.GenerateResource.cache
+H:\logP\Trabai-LogP-30.6\logP-trabai\obj\Debug\logP-trabai.csproj.CoreCompileInputs.cache
+H:\logP\Trabai-LogP-30.6\logP-trabai\obj\Debug\logP-trabai.exe
+H:\logP\Trabai-LogP-30.6\logP-trabai\obj\Debug\logP-trabai.pdb
